@@ -5,36 +5,42 @@
 <h1 align="center">Seyr</h1>
 
 <p align="center">
-  <strong>A comprehensive Islamic mobile application built with Flutter.</strong>
+  <strong>A comprehensive Islamic mobile application for everyday spiritual life.</strong>
 </p>
 
 <p align="center">
-  A modern digital companion designed for Islamic life, worship, learning, and spiritual growth.
+  Built with Flutter • Available on iOS & Android
 </p>
 
 ---
 
-## About
-## About
+## About Seyr
 
-Seyr is a mobile application designed to bring essential tools and content for Islamic life together in a single, modern experience.
+Seyr is a comprehensive Islamic mobile application that brings religious content, worship tools, learning resources, and personal spiritual features together in one modern experience.
 
-The application is built with a focus on accessibility, simplicity, and everyday usability. Rather than focusing on a single feature, Seyr aims to provide users with a broader digital companion for religious content, worship-related tools, and daily spiritual routines.
+Designed for everyday use, Seyr aims to make Islamic resources easily accessible through a clean, simple, and thoughtfully designed mobile interface.
+
+The application is publicly available on both the **Apple App Store** and **Google Play Store**.
 
 ---
 
 ## Features
 
-Seyr includes a growing set of features focused on:
+Seyr brings together a wide range of Islamic content and tools, including:
 
-- Islamic content and religious resources
-- Quran-related features
-- Worship-focused tools
-- Personal progress tracking
-- Daily spiritual routines
+- Quran reading and tracking
+- Quran tafsir
+- Hatim tracking
+- Hadith collections organized by topic
+- Islamic knowledge and educational content
+- Ilmihal resources
+- Religious Q&A and community features
+- Daily Islamic content and reminders
+- Personal spiritual tracking
 - User accounts and synchronization
 - Offline-accessible content
-- Clean and simple mobile experience
+
+The application continues to evolve with new content, improvements, and features.
 
 ---
 
@@ -58,7 +64,7 @@ Seyr includes a growing set of features focused on:
 
 ## Tech Stack
 
-### Mobile
+### Mobile Development
 - Flutter
 - Dart
 
@@ -66,29 +72,48 @@ Seyr includes a growing set of features focused on:
 - Firebase
 - REST APIs
 
-### Data
+### Data & Content
 - JSON-based local data
 - Offline content management
+- Cloud synchronization
 
-### Development Tools
+### Development & Deployment
 - Git
 - GitHub
+- Android
+- iOS
 
 ---
 
-## Development
+## Available On
 
-Seyr is an actively developed independent mobile application.
+Seyr is currently published on:
 
-The project is structured to support the addition of new religious content, tools, and features over time while maintaining a consistent and simple user experience.
+**Apple App Store**  
+Available for iPhone and iOS devices.
+
+**Google Play Store**  
+Available for Android devices.
+
+> Store links will be added here.
+
+---
+
+## Project
+
+Seyr is an independently developed and published mobile application.
+
+The project covers the complete mobile application development process, from interface design and feature development to data management, backend integration, testing, and deployment on both major mobile platforms.
+
+Seyr continues to receive updates and improvements following its public release.
 
 ---
 
 ## Source Code
 
-The source code of Seyr is maintained in a private repository and is not publicly distributed.
+Seyr is a proprietary project and its production source code is maintained in a private repository.
 
-This repository serves as a public showcase for the application, including its interface, features, technologies, and development progress.
+This public repository serves as a showcase of the application, its features, interface, technologies, and development process.
 
 ---
 
@@ -99,11 +124,11 @@ This repository serves as a public showcase for the application, including its i
 Information Systems & Technologies  
 Data Science • Python Development • Flutter
 
-- LinkedIn: linkedin.com/in/mahmut-ersoy-6a7554310
-- Email: mersoy.datasc@gmail.com
+**LinkedIn:** linkedin.com/in/mahmut-ersoy-6a7554310  
+**Email:** mersoy.datasc@gmail.com
 
 ---
 
-## Status
-
-🚧 Seyr is currently under active development.
+<p align="center">
+  <strong>Seyr — Available on iOS & Android</strong>
+</p>

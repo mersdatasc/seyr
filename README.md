@@ -1,12 +1,20 @@
 <p align="center">
-  <h1>Seyr</h1>
-  <p>
-    A comprehensive Islamic mobile application built with Flutter.
-  </p>
+  <img src="assets/icon.png" width="120" alt="Seyr App Icon" />
+</p>
+
+<h1 align="center">Seyr</h1>
+
+<p align="center">
+  <strong>A comprehensive Islamic mobile application built with Flutter.</strong>
+</p>
+
+<p align="center">
+  A modern digital companion designed for Islamic life, worship, learning, and spiritual growth.
 </p>
 
 ---
 
+## About
 ## About
 
 Seyr is a mobile application designed to bring essential tools and content for Islamic life together in a single, modern experience.

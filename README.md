@@ -9,38 +9,71 @@
 </p>
 
 <p align="center">
+  Quran • Prayer Times • Qibla • Duas • Dhikr • Hadith • Islamic Knowledge
+</p>
+
+<p align="center">
   Built with Flutter • Available on iOS & Android
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/tr/app/seyr-kuran-dua-namaz/id6758518721?l=tr">
+    <strong>App Store</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.mersdatasc.hatimyolcusu">
+    <strong>Google Play</strong>
+  </a>
 </p>
 
 ---
 
 ## About Seyr
 
-Seyr is a comprehensive Islamic mobile application that brings religious content, worship tools, learning resources, and personal spiritual features together in one modern experience.
+Seyr is a comprehensive Islamic mobile application designed to bring essential tools, religious content, and spiritual resources together in one modern experience.
 
-Designed for everyday use, Seyr aims to make Islamic resources easily accessible through a clean, simple, and thoughtfully designed mobile interface.
+Rather than focusing on a single aspect of Islamic life, Seyr combines Quran reading, prayer tools, religious knowledge, personal tracking, and daily spiritual content within a unified mobile application.
 
-The application is publicly available on both the **Apple App Store** and **Google Play Store**.
+The application is independently developed and published for both iOS and Android.
 
 ---
 
 ## Features
 
-Seyr brings together a wide range of Islamic content and tools, including:
+### Quran
 
-- Quran reading and tracking
-- Quran tafsir
-- Hatim tracking
-- Hadith collections organized by topic
+- Complete Quran reading experience
+- Word-by-word translation
+- Multiple Arabic font options
+- Tafsir access
+- Verse bookmarks
+- Quran reading and Hatim tracking
+- Reading statistics
+
+### Prayer & Worship
+
+- Prayer times
+- Countdown to the next prayer
+- Prayer time notifications
+- Qibla compass with real-time guidance
+- Duas and Dhikr
+- Daily spiritual content
+
+### Islamic Content
+
+- Hadith collections
 - Islamic knowledge and educational content
 - Ilmihal resources
-- Religious Q&A and community features
-- Daily Islamic content and reminders
-- Personal spiritual tracking
-- User accounts and synchronization
-- Offline-accessible content
+- Daily verses and religious information
+- Esma-ul Husna content
 
-The application continues to evolve with new content, improvements, and features.
+### Personal Experience
+
+- User accounts
+- Progress synchronization
+- Personal reading tracking
+- Saved content
+- Personalized spiritual experience
 
 ---
 
@@ -77,35 +110,33 @@ The application continues to evolve with new content, improvements, and features
 - Offline content management
 - Cloud synchronization
 
-### Development & Deployment
-- Git
-- GitHub
+### Platforms
 - Android
 - iOS
 
----
-
-## Available On
-
-Seyr is currently published on:
-
-**Apple App Store**  
-Available for iPhone and iOS devices.
-
-**Google Play Store**  
-Available for Android devices.
-
-> Store links will be added here.
+### Development
+- Git
+- GitHub
 
 ---
 
-## Project
+## From Development to Production
 
-Seyr is an independently developed and published mobile application.
+Seyr is not only a development project — it is a publicly released mobile application available on both major mobile platforms.
 
-The project covers the complete mobile application development process, from interface design and feature development to data management, backend integration, testing, and deployment on both major mobile platforms.
+The project covers the complete application lifecycle, including:
 
-Seyr continues to receive updates and improvements following its public release.
+- Product and interface design
+- Cross-platform mobile development
+- Backend and cloud integration
+- Local and remote data management
+- Authentication and synchronization
+- Testing and optimization
+- Android deployment
+- iOS deployment
+- Production updates and maintenance
+
+The application continues to receive updates and improvements after its public release.
 
 ---
 
@@ -113,7 +144,7 @@ Seyr continues to receive updates and improvements following its public release.
 
 Seyr is a proprietary project and its production source code is maintained in a private repository.
 
-This public repository serves as a showcase of the application, its features, interface, technologies, and development process.
+This public repository serves as a showcase of the application, its interface, features, technologies, and development process.
 
 ---
 
@@ -130,5 +161,5 @@ Data Science • Python Development • Flutter
 ---
 
 <p align="center">
-  <strong>Seyr — Available on iOS & Android</strong>
+  <strong>Seyr — Available on the App Store & Google Play</strong>
 </p>
